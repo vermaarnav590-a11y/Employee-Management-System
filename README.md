@@ -46,16 +46,6 @@ cd Employee-Management-System
 python main.py
 ```
 
-## 📷 Screenshots
-
-Add your project screenshots here.
-
-Example:
-
-```markdown
-![Main Menu](screenshots/menu.png)
-```
-
 ## 📚 What I Learned
 
 - Python Programming
@@ -65,12 +55,6 @@ Example:
 - Database Connectivity
 - Command-Line Interface (CLI)
 
-## 🚀 Future Improvements
-
-- Search by Employee Name
-- Login Authentication
-- Export Data to Excel
-- Graphical User Interface (GUI)
 
 ## 👨‍💻 Author
 
